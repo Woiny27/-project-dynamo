@@ -1,0 +1,3 @@
+Skipping image OS validation for hb__4085023453e966673490681d147868ba: docker inspect returned 1
+Collecting main service artifacts
+Trial task__WXaXu4C failed: No reward file found at jobs/2026-07-26__18-21-13/task__WXaXu4C/verifier/reward.txt or jobs/2026-07-26__18-21-13/task__WXaXu4C/verifier/reward.json

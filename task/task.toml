@@ -1,0 +1,7 @@
+[task]
+name = "woiny27/write-output-file"
+description = "Create a simple output file in the working directory."
+author = "Woiny27"
+difficulty = "easy"
+timeout_seconds = 45
+max_attempts = 1

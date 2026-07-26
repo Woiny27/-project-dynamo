@@ -1,0 +1,5 @@
+Skipping image OS validation for hb__4085023453e966673490681d147868ba: docker inspect returned 1
+Collecting main service artifacts
+Trial task__uZfhD9J failed: No reward file found at jobs/2026-07-26__18-21-43/task__uZfhD9J/verifier/reward.txt or jobs/2026-07-26__18-21-43/task__uZfhD9J/verifier/reward.json
+Exception RewardFileNotFoundError is in exclude_exceptions, not retrying
+Not retrying trial because the exception is not in include_exceptions or the maximum number of retries has been reached
