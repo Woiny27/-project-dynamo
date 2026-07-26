@@ -1,3 +1,9 @@
+=== TrialPaths class ===
+@dataclass(frozen=True)
+class TrialPaths:
+    """
+    The output directory of a trial.
+
     Single-step trial directory structure:
     trial_dir/
     ├── agent/          # Logs written by the agent.
